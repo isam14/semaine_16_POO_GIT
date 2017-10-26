@@ -1,3 +1,8 @@
 text
 etape1
+<<<<<<< Updated upstream
 essai de git stash
+=======
+now we will test git stash
+now we will test git stash
+>>>>>>> Stashed changes
