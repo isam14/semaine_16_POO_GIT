@@ -1,9 +1,14 @@
 text
 etape1
-<<<<<<< Updated upstream
+
 essai de git stash
-=======
+
 now we will test git stash
 now we will test git stash
->>>>>>> Stashed changes
-tjrs git stash
+
+encore
+ah non ça à vraiment disparugit push origin master --force!
+alors on recommence
+test stash
+voilà la correction
+
